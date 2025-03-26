@@ -27,4 +27,4 @@ A brief description of your project. Example:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aniruddhask7/Project-on-web.git
+   https://github.com/Aniruddhask7
